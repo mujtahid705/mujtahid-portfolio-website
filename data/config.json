@@ -1,0 +1,232 @@
+{
+  "settings": {
+    "showProjectImages": false
+  },
+  "personal": {
+    "name": "Muhammad Mujtahid",
+    "title": "Software Engineer Portfolio",
+    "role": "Software Engineer",
+    "description": "Software Engineer specializing in MERN stack delivering full-stack solutions with clean architecture.",
+    "about": {
+      "intro": "I'm a Software Engineer specializing in MERN stack development. Currently pursuing BSc in Computer Science at BRAC University while working as a Junior Software Engineer at Fatmonk Studio. My journey in tech started with frontend development and has evolved into full-stack expertise.",
+      "details": "I have hands-on experience building admin dashboards, analytics tools, e-commerce platforms, and CRM systems. I specialize in React, Next.js, Node JS, and modern web technologies with a focus on delivering high-quality solutions that meet client requirements.",
+      "philosophy": "I believe in clean architecture, continuous learning, and delivering projects on time with high quality. Every project is an opportunity to solve real-world problems through technology.",
+      "quickFacts": [
+        { "label": "Experience", "value": "2+ Years" },
+        { "label": "Location", "value": "Dhaka, Bangladesh" },
+        { "label": "Education", "value": "BRAC University" },
+        { "label": "Projects", "value": "7+ Major" }
+      ]
+    }
+  },
+  "contact": {
+    "email": "mujtahid705@gmail.com",
+    "phone": "+8801973108826",
+    "location": "Dhaka, Bangladesh",
+    "social": {
+      "github": "https://github.com/mujtahid705",
+      "linkedin": "https://linkedin.com/in/muhammad-mujtahid/",
+      "email": "mailto:mujtahid705@gmail.com"
+    }
+  },
+  "skills": {
+    "frontend": [
+      { "name": "React JS", "icon": "⚛️", "level": 100 },
+      { "name": "Next JS", "icon": "▲", "level": 98 },
+      { "name": "React Native", "icon": "📱", "level": 80 },
+      { "name": "Sveltekit", "icon": "🎯", "level": 70 },
+      { "name": "JavaScript", "icon": "#️⃣", "level": 100 },
+      { "name": "TypeScript", "icon": "🔷", "level": 82 },
+      { "name": "HTML", "icon": "🌐", "level": 95 },
+      { "name": "CSS", "icon": "🎨", "level": 90 }
+    ],
+    "backend": [
+      { "name": "Node JS", "icon": "🟢", "level": 85 },
+      { "name": "Express JS", "icon": "🚀", "level": 85 },
+      { "name": "Nest JS", "icon": "✨", "level": 75 },
+      { "name": "ASP.NET", "icon": "#️⃣", "level": 70 }
+    ],
+    "database": [
+      { "name": "MongoDB", "icon": "🍃", "level": 85 },
+      { "name": "MySQL", "icon": "🐬", "level": 78 },
+      { "name": "PostgreSQL", "icon": "🐘", "level": 80 }
+    ],
+    "tools": [
+      { "name": "Redux", "icon": "⚛️", "level": 100 },
+      { "name": "Tailwind", "icon": "🎨", "level": 100 },
+      { "name": "Mongoose", "icon": "🦫", "level": 85 },
+      { "name": "Expo", "icon": "📱", "level": 80 },
+      { "name": "Git", "icon": "🔧", "level": 90 },
+      { "name": "Docker", "icon": "🐳", "level": 70 },
+      { "name": "Prisma", "icon": "🔷", "level": 85 }
+    ],
+    "additional": [
+      "Git",
+      "VS Code",
+      "Postman",
+      "Figma",
+      "Chrome DevTools",
+      "JWT Authentication",
+      "RESTful APIs",
+      "Responsive Design",
+      "Agile Development",
+      "Problem Solving"
+    ]
+  },
+  "projects": [
+    {
+      "title": "Monocart - E-commerce Platform",
+      "description": "Comprehensive e-commerce platform with user authentication, product management, and payment integration. Built with MERN stack for scalability and performance.",
+      "image": "https://images.unsplash.com/photo-1559136555-9303baea8ebd?w=600&h=400&fit=crop",
+      "technologies": ["Next JS", "Nest JS", "PostgreSQL", "Tailwind"],
+      "links": {
+        "demo": "https://monocart.vercel.app/",
+        "github": "https://github.com/mujtahid705/MonoCart-Backend"
+      }
+    },
+    {
+      "title": "SparkleMusic",
+      "description": "Cross-platform React Native app for music streaming and downloads from YouTube. Mobile-first entertainment platform.",
+      "image": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=600&h=400&fit=crop",
+      "technologies": ["React Native", "Expo"],
+      "links": {
+        "demo": "#",
+        "github": "https://github.com/abtahi-tajwar/SparkleMusic"
+      }
+    },
+    {
+      "title": "Simply Gaines",
+      "description": "Online marketplace platform for freelance contributors with authentication and role-based authorization system.",
+      "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=600&h=400&fit=crop",
+      "technologies": ["React", "Role-based Auth"],
+      "links": {
+        "demo": "https://live.simplygaines.fatmonk.studio/",
+        "github": "#"
+      }
+    },
+    {
+      "title": "Bangladesh Startup Connect 2025",
+      "description": "Dynamic event website with CMS functionality for BIDA's investment summit. Built with modern React architecture and state management.",
+      "image": "https://images.unsplash.com/photo-1559136555-9303baea8ebd?w=600&h=400&fit=crop",
+      "technologies": ["React", "Redux", "Tailwind"],
+      "links": {
+        "demo": "https://connect.startupbangladesh.gov.bd/",
+        "github": "#"
+      }
+    },
+    {
+      "title": "Task Master Pro",
+      "description": "Centralized project and team management platform with role-based permissions. Full-stack solution with modern MERN architecture.",
+      "image": "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=600&h=400&fit=crop",
+      "technologies": ["React", "Node JS", "Express", "MongoDB", "Mongoose"],
+      "links": {
+        "demo": "#",
+        "github": "https://github.com/mujtahid705/TaskMasterPro_frontend"
+      }
+    },
+    {
+      "title": "Fatmonk Studio Website",
+      "description": "Official website with custom CMS-like functionality and secure backend. Professional company website with modern design.",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&fit=crop",
+      "technologies": ["React", "Node JS", "Express", "MongoDB", "Mongoose"],
+      "links": {
+        "demo": "https://fatmonk.studio/",
+        "github": "#"
+      }
+    },
+    {
+      "title": "Feerot",
+      "description": "E-commerce coupon and discount platform with real-time tracking. Modern shopping companion application.",
+      "image": "https://images.unsplash.com/photo-1556742502-ec7c0e9f34b1?w=600&h=400&fit=crop",
+      "technologies": ["React", "Redux"],
+      "links": {
+        "demo": "#",
+        "github": "https://github.com/n0k1b/feerotFrontend/tree/master"
+      }
+    }
+  ],
+  "experience": [
+    {
+      "position": "Junior Software Engineer",
+      "company": "Fatmonk Studio",
+      "period": "Jan 2025 - Present",
+      "location": "Banani, Dhaka (Hybrid)",
+      "achievements": [
+        "Specialized in MERN stack delivering full-stack solutions with clean architecture",
+        "Built admin dashboards, analytics tools, e-commerce platforms, and CRM systems",
+        "Collaborated with stakeholders for requirement gathering and ongoing support"
+      ],
+      "technologies": [
+        "React",
+        "Node JS",
+        "Express",
+        "Nest JS",
+        "MongoDB",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "position": "Frontend Developer",
+      "company": "XiT Bangladesh",
+      "period": "Aug 2022 - Dec 2024",
+      "location": "Remote",
+      "achievements": [
+        "Lead frontend developer on two major client projects",
+        "Handled frontend architecture, routing, state management, and API integration",
+        "Delivered both projects on time with high quality and client satisfaction"
+      ],
+      "technologies": ["React", "JavaScript", "CSS", "API Integration"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "BRAC University",
+      "degree": "BSc in Computer Science",
+      "period": "2022 - 2026",
+      "location": "Dhaka, Bangladesh",
+      "status": "Current"
+    },
+    {
+      "institution": "Hazera Taju Degree College",
+      "degree": "Higher Secondary Certificate (HSC)",
+      "period": "2021",
+      "location": "Chittagong, Bangladesh"
+    },
+    {
+      "institution": "Ispahani Public School and College",
+      "degree": "Secondary School Certificate (SSC)",
+      "period": "2019",
+      "location": "Chittagong, Bangladesh"
+    }
+  ],
+  "features": [
+    {
+      "title": "Clean Code",
+      "description": "Writing maintainable, scalable, and efficient code that stands the test of time.",
+      "icon": "code"
+    },
+    {
+      "title": "Design-First",
+      "description": "Bridging the gap between design and development with pixel-perfect implementations.",
+      "icon": "star"
+    },
+    {
+      "title": "Performance",
+      "description": "Optimizing applications for speed, accessibility, and exceptional user experience.",
+      "icon": "zap"
+    },
+    {
+      "title": "Collaboration",
+      "description": "Working closely with teams to deliver projects that exceed expectations.",
+      "icon": "users"
+    }
+  ],
+  "sections": [
+    { "id": "about", "title": "About" },
+    { "id": "skills", "title": "Skills" },
+    { "id": "projects", "title": "Projects" },
+    { "id": "education", "title": "Education" },
+    { "id": "experience", "title": "Experience" },
+    { "id": "contact", "title": "Contact" }
+  ]
+}
