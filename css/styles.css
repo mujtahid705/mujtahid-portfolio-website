@@ -489,6 +489,7 @@ h4 {
   justify-content: center;
   position: relative;
   overflow: hidden;
+  padding-top: 4rem;
 }
 
 .hero-bg {
@@ -756,6 +757,11 @@ h4 {
 
 /* Enhanced Mobile Responsiveness */
 @media (max-width: 768px) {
+  .hero {
+    padding-top: 5rem;
+    min-height: calc(100vh - 1rem);
+  }
+
   .hero-title {
     font-size: 2rem;
   }
@@ -795,8 +801,19 @@ h4 {
   }
 
   /* Mobile navigation adjustments */
+  .nav {
+    background-color: rgba(var(--background), 0.95);
+    backdrop-filter: blur(10px);
+    border-bottom: 1px solid var(--border);
+  }
+
   .nav-content {
     padding: 0 1rem;
+    height: 4rem;
+  }
+
+  .nav-actions {
+    gap: 0.5rem;
   }
 
   /* Mobile typography adjustments */

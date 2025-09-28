@@ -151,25 +151,25 @@ function populateSkillsSection() {
   if (frontendSkills) {
     frontendSkills.innerHTML = portfolioData.skills.frontend
       .map(createSkillItem)
-      .join('');
+      .join("");
   }
 
   if (backendSkills) {
     backendSkills.innerHTML = portfolioData.skills.backend
       .map(createSkillItem)
-      .join('');
+      .join("");
   }
 
   if (databaseSkills && portfolioData.skills.database) {
     databaseSkills.innerHTML = portfolioData.skills.database
       .map(createSkillItem)
-      .join('');
+      .join("");
   }
 
   if (toolsSkills) {
     toolsSkills.innerHTML = portfolioData.skills.tools
       .map(createSkillItem)
-      .join('');
+      .join("");
   }
 
   if (additionalSkills) {
