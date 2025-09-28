@@ -170,3 +170,85 @@ This template is free to use for personal and commercial projects. Attribution i
 ## Support
 
 For questions or issues, please refer to the code comments or create an issue in the repository.
+
+# Muhammad Mujtahid - Portfolio
+
+A modern, responsive portfolio website showcasing my skills as a Software Engineer specializing in MERN stack development.
+
+🌐 **Live Demo**: [https://mujtahid705.github.io](https://mujtahid705.github.io)
+
+## About
+
+This portfolio website is built with modern web technologies and features a clean, professional design. It's fully responsive and includes sections for About, Skills, Projects, Education, Experience, and Contact information.
+
+## Features
+
+- **Fully Customizable**: Update all content through `data/config.json`
+- **Responsive Design**: Works seamlessly on all devices
+- **Dark Mode**: Built-in theme toggle functionality
+- **Smooth Animations**: Scroll-based animations and interactive elements
+- **Clean Architecture**: Separated HTML, CSS, and JavaScript files
+- **Dynamic Content**: All content loaded from JSON configuration
+- **Project Image Toggle**: Configurable display of project images
+
+## Technologies Used
+
+- **Frontend**: HTML5, CSS3, JavaScript (ES6+)
+- **Styling**: Custom CSS with utility classes, Flexbox, CSS Grid
+- **Fonts**: Google Fonts (Inter & Poppins)
+- **Icons**: Inline SVG icons
+- **Architecture**: JSON-based content management
+
+## Project Structure
+
+```
+Portfolio/
+├── index.html              # Main HTML template
+├── css/
+│   └── styles.css          # Responsive CSS styles
+├── js/
+│   └── script.js           # Dynamic content loading & interactions
+├── data/
+│   └── config.json         # All content configuration
+└── README.md               # This file
+```
+
+## Local Development
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/mujtahid705/mujtahid705.github.io.git
+   ```
+
+2. Open `index.html` in your browser or use a local server:
+   ```bash
+   # Using Python
+   python -m http.server 8000
+   
+   # Using Node.js
+   npx serve .
+   ```
+
+3. Visit `http://localhost:8000` (or your chosen port)
+
+## Customization
+
+All content is managed through the `data/config.json` file. You can easily update:
+
+- Personal information and bio
+- Skills and technologies with proficiency levels
+- Project showcase with links and technologies
+- Work experience and achievements
+- Education background
+- Contact information and social links
+- Display settings (like showing/hiding project images)
+
+## Contact
+
+- **Email**: mujtahid705@gmail.com
+- **LinkedIn**: [muhammad-mujtahid](https://linkedin.com/in/muhammad-mujtahid/)
+- **GitHub**: [mujtahid705](https://github.com/mujtahid705)
+
+## License
+
+This project is open source and available under the [MIT License](LICENSE).
