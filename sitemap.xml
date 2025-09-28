@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://mujtahid705.github.io/</loc>
+        <loc>https://mujtahid.me/</loc>
         <lastmod>2024-01-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://mujtahid705.github.io/#about</loc>
+        <loc>https://mujtahid.me/#about</loc>
         <lastmod>2024-01-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://mujtahid705.github.io/#skills</loc>
+        <loc>https://mujtahid.me/#skills</loc>
         <lastmod>2024-01-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://mujtahid705.github.io/#projects</loc>
+        <loc>https://mujtahid.me/#projects</loc>
         <lastmod>2024-01-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://mujtahid705.github.io/#education</loc>
+        <loc>https://mujtahid.me/#education</loc>
         <lastmod>2024-01-15</lastmod>
         <changefreq>yearly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://mujtahid705.github.io/#experience</loc>
+        <loc>https://mujtahid.me/#experience</loc>
         <lastmod>2024-01-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://mujtahid705.github.io/#contact</loc>
+        <loc>https://mujtahid.me/#contact</loc>
         <lastmod>2024-01-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
