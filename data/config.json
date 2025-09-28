@@ -31,34 +31,34 @@
   },
   "skills": {
     "frontend": [
-      { "name": "React JS", "icon": "⚛️", "level": 100 },
-      { "name": "Next JS", "icon": "▲", "level": 98 },
-      { "name": "React Native", "icon": "📱", "level": 80 },
-      { "name": "Sveltekit", "icon": "🎯", "level": 70 },
-      { "name": "JavaScript", "icon": "#️⃣", "level": 100 },
-      { "name": "TypeScript", "icon": "🔷", "level": 82 },
-      { "name": "HTML", "icon": "🌐", "level": 95 },
-      { "name": "CSS", "icon": "🎨", "level": 90 }
+      { "name": "React JS", "icon": "⚛️" },
+      { "name": "Next JS", "icon": "▲" },
+      { "name": "React Native", "icon": "📱" },
+      { "name": "Sveltekit", "icon": "🎯" },
+      { "name": "JavaScript", "icon": "#️⃣" },
+      { "name": "TypeScript", "icon": "🔷" },
+      { "name": "HTML", "icon": "🌐" },
+      { "name": "CSS", "icon": "🎨" }
     ],
     "backend": [
-      { "name": "Node JS", "icon": "🟢", "level": 85 },
-      { "name": "Express JS", "icon": "🚀", "level": 85 },
-      { "name": "Nest JS", "icon": "✨", "level": 75 },
-      { "name": "ASP.NET", "icon": "#️⃣", "level": 70 }
+      { "name": "Node JS", "icon": "🟢" },
+      { "name": "Express JS", "icon": "🚀" },
+      { "name": "Nest JS", "icon": "✨" },
+      { "name": "ASP.NET", "icon": "#️⃣" }
     ],
     "database": [
-      { "name": "MongoDB", "icon": "🍃", "level": 85 },
-      { "name": "MySQL", "icon": "🐬", "level": 78 },
-      { "name": "PostgreSQL", "icon": "🐘", "level": 80 }
+      { "name": "MongoDB", "icon": "🍃" },
+      { "name": "MySQL", "icon": "🐬" },
+      { "name": "PostgreSQL", "icon": "🐘" }
     ],
     "tools": [
-      { "name": "Redux", "icon": "⚛️", "level": 100 },
-      { "name": "Tailwind", "icon": "🎨", "level": 100 },
-      { "name": "Mongoose", "icon": "🦫", "level": 85 },
-      { "name": "Expo", "icon": "📱", "level": 80 },
-      { "name": "Git", "icon": "🔧", "level": 90 },
-      { "name": "Docker", "icon": "🐳", "level": 70 },
-      { "name": "Prisma", "icon": "🔷", "level": 85 }
+      { "name": "Redux", "icon": "⚛️" },
+      { "name": "Tailwind", "icon": "🎨" },
+      { "name": "Mongoose", "icon": "🦫" },
+      { "name": "Expo", "icon": "📱" },
+      { "name": "Git", "icon": "🔧" },
+      { "name": "Docker", "icon": "🐳" },
+      { "name": "Prisma", "icon": "🔷" }
     ],
     "additional": [
       "Git",

@@ -133,20 +133,17 @@ function populateAboutSection() {
 function populateSkillsSection() {
   const frontendSkills = document.getElementById("frontend-skills");
   const backendSkills = document.getElementById("backend-skills");
+  const databaseSkills = document.getElementById("database-skills");
   const toolsSkills = document.getElementById("tools-skills");
   const additionalSkills = document.getElementById("additional-skills");
 
   function createSkillItem(skill) {
     return `
-            <div class="skill-item">
+            <div class="skill-item" style="margin-bottom: 0.5rem;">
                 <div class="skill-name">
-                    <span class="skill-icon">${skill.icon}</span>
-                    <span>${skill.name}</span>
+                    <span class="skill-icon" style="margin-right: 0.5rem;">${skill.icon}</span>
+                    <span style="font-size: 0.875rem;">${skill.name}</span>
                 </div>
-                <span class="text-sm text-muted-foreground">${skill.level}%</span>
-            </div>
-            <div class="skill-progress">
-                <div class="skill-progress-bar" style="width: ${skill.level}%;"></div>
             </div>
         `;
   }
@@ -154,19 +151,25 @@ function populateSkillsSection() {
   if (frontendSkills) {
     frontendSkills.innerHTML = portfolioData.skills.frontend
       .map(createSkillItem)
-      .join('<div style="margin-top: 1rem;"></div>');
+      .join('');
   }
 
   if (backendSkills) {
     backendSkills.innerHTML = portfolioData.skills.backend
       .map(createSkillItem)
-      .join('<div style="margin-top: 1rem;"></div>');
+      .join('');
+  }
+
+  if (databaseSkills && portfolioData.skills.database) {
+    databaseSkills.innerHTML = portfolioData.skills.database
+      .map(createSkillItem)
+      .join('');
   }
 
   if (toolsSkills) {
     toolsSkills.innerHTML = portfolioData.skills.tools
       .map(createSkillItem)
-      .join('<div style="margin-top: 1rem;"></div>');
+      .join('');
   }
 
   if (additionalSkills) {

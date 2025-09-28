@@ -216,15 +216,17 @@ Portfolio/
 ## Local Development
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/mujtahid705/mujtahid705.github.io.git
    ```
 
 2. Open `index.html` in your browser or use a local server:
+
    ```bash
    # Using Python
    python -m http.server 8000
-   
+
    # Using Node.js
    npx serve .
    ```
