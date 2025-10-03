@@ -1,6 +1,7 @@
 {
   "settings": {
-    "showProjectImages": false
+    "showProjectImages": false,
+    "darkModeByDefault": true
   },
   "personal": {
     "name": "Muhammad Mujtahid",
@@ -228,5 +229,78 @@
     { "id": "education", "title": "Education" },
     { "id": "experience", "title": "Experience" },
     { "id": "contact", "title": "Contact" }
-  ]
+  ],
+  "terminal": {
+    "welcome": " __  __        _ _        _     _     _ \n|  \\/  |_   _ (_) |_ __ _| |__ (_) __| |\n| |\\/| | | | || | __/ _` | '_ \\| |/ _` |\n| |  | | |_| || | || (_| | | | | | (_| |\n|_|  |_|\\__,_|/ |\\__\\__,_|_| |_|_|\\__,_|\n            |__/                         \n\nWelcome to Mujtahid's Portfolio Terminal v1.0.0\nType 'help' to see available commands",
+    "welcomeMobile": "MUJTAHID\n\nPortfolio Terminal v1.0.0\nType 'help' for commands",
+    "prompt": "visitor@mujtahid:~$",
+    "fileSystem": {
+      "profile": {
+        "type": "directory",
+        "contents": {
+          "info.txt": {
+            "type": "file",
+            "content": "Name: Muhammad Mujtahid\nRole: Software Engineer\nLocation: Dhaka, Bangladesh\n\nAbout:\nI'm a Software Engineer specializing in MERN stack development. Currently pursuing BSc in Computer Science at BRAC University while working as a Junior Software Engineer at Fatmonk Studio. My journey in tech started with frontend development and has evolved into full-stack expertise.\n\nI have hands-on experience building admin dashboards, analytics tools, e-commerce platforms, and CRM systems. I specialize in React, Next.js, Node JS, and modern web technologies with a focus on delivering high-quality solutions that meet client requirements.\n\nPhilosophy:\nI believe in clean architecture, continuous learning, and delivering projects on time with high quality. Every project is an opportunity to solve real-world problems through technology.\n\nQuick Facts:\n- Experience: 3+ Years\n- Location: Dhaka, Bangladesh\n- Education: BRAC University\n- Projects: 7+ Major"
+          }
+        }
+      },
+      "skills": {
+        "type": "directory",
+        "contents": {
+          "frontend.txt": {
+            "type": "file",
+            "content": "Frontend Technologies:\n\n⚛️  React JS\n▲  Next JS\n📱 React Native\n🎯 Sveltekit\n#️⃣  JavaScript\n🔷 TypeScript\n🌐 HTML\n🎨 CSS"
+          },
+          "backend.txt": {
+            "type": "file",
+            "content": "Backend Technologies:\n\n🟢 Node JS\n🚀 Express JS\n✨ Nest JS\n#️⃣  ASP.NET"
+          },
+          "database.txt": {
+            "type": "file",
+            "content": "Database Technologies:\n\n🍃 MongoDB\n🐬 MySQL\n🐘 PostgreSQL"
+          },
+          "tools.txt": {
+            "type": "file",
+            "content": "Tools & Technologies:\n\n⚛️  Redux\n🎨 Tailwind\n🦫 Mongoose\n📱 Expo\n🔧 Git\n🐳 Docker\n🔷 Prisma\n\nAdditional Skills:\n- VS Code\n- Postman\n- Figma\n- Chrome DevTools\n- JWT Authentication\n- RESTful APIs\n- Responsive Design\n- Agile Development\n- Problem Solving"
+          }
+        }
+      },
+      "education": {
+        "type": "directory",
+        "contents": {
+          "academic.txt": {
+            "type": "file",
+            "content": "Education Background:\n\n1. BRAC University\n   Degree: BSc in Computer Science\n   Period: 2022 - 2026 (Current)\n   Location: Dhaka, Bangladesh\n\n2. Hazera Taju Degree College\n   Degree: Higher Secondary Certificate (HSC)\n   Period: 2021\n   Location: Chittagong, Bangladesh\n\n3. Ispahani Public School and College\n   Degree: Secondary School Certificate (SSC)\n   Period: 2019\n   Location: Chittagong, Bangladesh"
+          }
+        }
+      },
+      "employment": {
+        "type": "directory",
+        "contents": {
+          "experience.txt": {
+            "type": "file",
+            "content": "Work Experience:\n\n1. Junior Software Engineer\n   Company: Fatmonk Studio\n   Period: Jan 2025 - Present\n   Location: Banani, Dhaka (Hybrid)\n   \n   Achievements:\n   - Specialized in MERN stack delivering full-stack solutions with clean architecture\n   - Built admin dashboards, analytics tools, e-commerce platforms, and CRM systems\n   - Collaborated with stakeholders for requirement gathering and ongoing support\n   \n   Technologies: React, Node JS, Express, Nest JS, MongoDB, PostgreSQL\n\n2. Frontend Developer\n   Company: XiT Bangladesh\n   Period: Aug 2022 - Dec 2024\n   Location: Remote\n   \n   Achievements:\n   - Lead frontend developer on two major client projects\n   - Handled frontend architecture, routing, state management, and API integration\n   - Delivered both projects on time with high quality and client satisfaction\n   \n   Technologies: React, JavaScript, CSS, API Integration"
+          }
+        }
+      },
+      "projects": {
+        "type": "directory",
+        "contents": {
+          "list.txt": {
+            "type": "file",
+            "content": "Major Projects:\n\n1. Monocart - E-commerce Platform\n   Comprehensive e-commerce platform with user authentication, product management, and payment integration.\n   Tech Stack: Next JS, Nest JS, PostgreSQL, Tailwind\n   Demo: https://monocart.vercel.app/\n   GitHub: https://github.com/mujtahid705/MonoCart-Backend\n\n2. SparkleMusic\n   Cross-platform React Native app for music streaming and downloads from YouTube.\n   Tech Stack: React Native, Expo\n   GitHub: https://github.com/abtahi-tajwar/SparkleMusic\n\n3. Simply Gaines\n   Online marketplace platform for freelance contributors with authentication and role-based authorization.\n   Tech Stack: React, Role-based Auth\n   Demo: https://live.simplygaines.fatmonk.studio/\n\n4. Bangladesh Startup Connect 2025\n   Dynamic event website with CMS functionality for BIDA's investment summit.\n   Tech Stack: React, Redux, Tailwind\n   Demo: https://connect.startupbangladesh.gov.bd/\n\n5. Task Master Pro\n   Centralized project and team management platform with role-based permissions.\n   Tech Stack: React, Node JS, Express, MongoDB, Mongoose\n   GitHub: https://github.com/mujtahid705/TaskMasterPro_frontend\n\n6. Fatmonk Studio Website\n   Official website with custom CMS-like functionality and secure backend.\n   Tech Stack: React, Node JS, Express, MongoDB, Mongoose\n   Demo: https://fatmonk.studio/\n\n7. Feerot\n   E-commerce coupon and discount platform with real-time tracking.\n   Tech Stack: React, Redux\n   GitHub: https://github.com/n0k1b/feerotFrontend/tree/master"
+          }
+        }
+      },
+      "contact": {
+        "type": "directory",
+        "contents": {
+          "info.txt": {
+            "type": "file",
+            "content": "Contact Information:\n\nEmail: mujtahid705@gmail.com\nPhone: +8801973108826\nLocation: Dhaka, Bangladesh\n\nSocial Links:\n- GitHub: https://github.com/mujtahid705\n- LinkedIn: https://linkedin.com/in/muhammad-mujtahid/\n\nFeel free to reach out for collaborations or opportunities!"
+          }
+        }
+      }
+    }
+  }
 }
