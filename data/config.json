@@ -9,9 +9,9 @@
     "role": "Software Engineer",
     "description": "Software Engineer specializing in MERN stack delivering full-stack solutions with clean architecture.",
     "about": {
-      "intro": "I'm a Software Engineer specializing in MERN stack development. Currently pursuing BSc in Computer Science at BRAC University while working as a Junior Software Engineer at Fatmonk Studio. My journey in tech started with frontend development and has evolved into full-stack expertise.",
-      "details": "I have hands-on experience building admin dashboards, analytics tools, e-commerce platforms, and CRM systems. I specialize in React, Next.js, Node JS, and modern web technologies with a focus on delivering high-quality solutions that meet client requirements.",
-      "philosophy": "I believe in clean architecture, continuous learning, and delivering projects on time with high quality. Every project is an opportunity to solve real-world problems through technology.",
+      "intro": "I'm a Software Engineer specializing in MERN stack development, currently pursuing a BSc in Computer Science at BRAC University while working as a Junior Software Engineer at Fatmonk Studio.",
+      "details": "My journey in tech began with frontend development and has since evolved into full-stack engineering, where I craft scalable, high-performance applications from concept to deployment. I’ve built and contributed to SaaS platforms, POS systems, headless e-commerce solutions, analytics dashboards, workflow automation tools, and custom CRM systems, focusing on creating seamless, efficient, and maintainable digital experiences that drive business impact. I specialize in React, Next.js, Node.js, Nest.js, and modern web technologies, with a strong emphasis on clean architecture, scalability, and performance optimization. My development approach blends best practices in API design, modular architecture, and cloud-native deployment to ensure reliability and maintainability at scale.",
+      "philosophy": "I believe in clean code, continuous learning, and delivering projects on time with uncompromising quality. Every project is an opportunity to solve real-world problems through technology, and I’m passionate about building products that make a meaningful impact.",
       "quickFacts": [
         { "label": "Experience", "value": "3+ Years" },
         { "label": "Location", "value": "Dhaka, Bangladesh" },
@@ -22,7 +22,7 @@
   },
   "contact": {
     "email": "mujtahid705@gmail.com",
-    "phone": "+8801973108826",
+    "phone": "+8801608354878",
     "location": "Dhaka, Bangladesh",
     "social": {
       "github": "https://github.com/mujtahid705",
@@ -97,9 +97,15 @@
     },
     {
       "title": "Simply Gaines",
-      "description": "Online marketplace platform for freelance contributors with authentication and role-based authorization system.",
+      "description": "A platform to manage social media and brand management tools with an online marketplace platform for freelance contributors with authentication and role-based authorization system.",
       "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=600&h=400&fit=crop",
-      "technologies": ["React", "Role-based Auth"],
+      "technologies": [
+        "React",
+        "Redux",
+        "Social Media Integration",
+        "Role-based Auth",
+        "Tailwind"
+      ],
       "links": {
         "demo": "https://live.simplygaines.fatmonk.studio/",
         "github": "#"
@@ -154,7 +160,7 @@
       "location": "Banani, Dhaka (Hybrid)",
       "achievements": [
         "Specialized in MERN stack delivering full-stack solutions with clean architecture",
-        "Built admin dashboards, analytics tools, e-commerce platforms, and CRM systems",
+        "Built end-to-end SaaS applications, POS and inventory management systems, headless e-commerce platforms, and data analytics dashboards with a focus on performance, scalability, and clean architecture.",
         "Collaborated with stakeholders for requirement gathering and ongoing support"
       ],
       "technologies": [
@@ -163,7 +169,8 @@
         "Express",
         "Nest JS",
         "MongoDB",
-        "PostgreSQL"
+        "PostgreSQL",
+        "Docker"
       ]
     },
     {
@@ -174,9 +181,9 @@
       "achievements": [
         "Lead frontend developer on two major client projects",
         "Handled frontend architecture, routing, state management, and API integration",
-        "Delivered both projects on time with high quality and client satisfaction"
+        "Delivered projects on time with high quality and client satisfaction"
       ],
-      "technologies": ["React", "JavaScript", "CSS", "API Integration"]
+      "technologies": ["React", "JavaScript", "Redux", "API Integration"]
     }
   ],
   "education": [
@@ -279,7 +286,7 @@
         "contents": {
           "experience.txt": {
             "type": "file",
-            "content": "Work Experience:\n\n1. Junior Software Engineer\n   Company: Fatmonk Studio\n   Period: Jan 2025 - Present\n   Location: Banani, Dhaka (Hybrid)\n   \n   Achievements:\n   - Specialized in MERN stack delivering full-stack solutions with clean architecture\n   - Built admin dashboards, analytics tools, e-commerce platforms, and CRM systems\n   - Collaborated with stakeholders for requirement gathering and ongoing support\n   \n   Technologies: React, Node JS, Express, Nest JS, MongoDB, PostgreSQL\n\n2. Frontend Developer\n   Company: XiT Bangladesh\n   Period: Aug 2022 - Dec 2024\n   Location: Remote\n   \n   Achievements:\n   - Lead frontend developer on two major client projects\n   - Handled frontend architecture, routing, state management, and API integration\n   - Delivered both projects on time with high quality and client satisfaction\n   \n   Technologies: React, JavaScript, CSS, API Integration"
+            "content": "Work Experience:\n\n1. Junior Software Engineer\n   Company: Fatmonk Studio\n   Period: Jan 2025 - Present\n   Location: Banani, Dhaka (Hybrid)\n   \n   Achievements:\n   - Specialized in MERN stack delivering full-stack solutions with clean architecture\n   - Built end-to-end SaaS applications, POS and inventory management systems, headless e-commerce platforms, and data analytics dashboards with a focus on performance, scalability, and clean architecture\n   - Collaborated with stakeholders for requirement gathering and ongoing support\n   \n   Technologies: React, Node JS, Express, Nest JS, MongoDB, PostgreSQL, Docker\n\n2. Frontend Developer\n   Company: XiT Bangladesh\n   Period: Aug 2022 - Dec 2024\n   Location: Remote\n   \n   Achievements:\n   - Lead frontend developer on two major client projects\n   - Handled frontend architecture, routing, state management, and API integration\n   - Delivered both projects on time with high quality and client satisfaction\n   \n   Technologies: React, JavaScript, Redux, API Integration"
           }
         }
       },
@@ -288,7 +295,7 @@
         "contents": {
           "list.txt": {
             "type": "file",
-            "content": "Major Projects:\n\n1. Monocart - E-commerce Platform\n   Comprehensive e-commerce platform with user authentication, product management, and payment integration.\n   Tech Stack: Next JS, Nest JS, PostgreSQL, Tailwind\n   Demo: https://monocart.vercel.app/\n   GitHub: https://github.com/mujtahid705/MonoCart-Backend\n\n2. SparkleMusic\n   Cross-platform React Native app for music streaming and downloads from YouTube.\n   Tech Stack: React Native, Expo\n   GitHub: https://github.com/abtahi-tajwar/SparkleMusic\n\n3. Simply Gaines\n   Online marketplace platform for freelance contributors with authentication and role-based authorization.\n   Tech Stack: React, Role-based Auth\n   Demo: https://live.simplygaines.fatmonk.studio/\n\n4. Bangladesh Startup Connect 2025\n   Dynamic event website with CMS functionality for BIDA's investment summit.\n   Tech Stack: React, Redux, Tailwind\n   Demo: https://connect.startupbangladesh.gov.bd/\n\n5. Task Master Pro\n   Centralized project and team management platform with role-based permissions.\n   Tech Stack: React, Node JS, Express, MongoDB, Mongoose\n   GitHub: https://github.com/mujtahid705/TaskMasterPro_frontend\n\n6. Fatmonk Studio Website\n   Official website with custom CMS-like functionality and secure backend.\n   Tech Stack: React, Node JS, Express, MongoDB, Mongoose\n   Demo: https://fatmonk.studio/\n\n7. Feerot\n   E-commerce coupon and discount platform with real-time tracking.\n   Tech Stack: React, Redux\n   GitHub: https://github.com/n0k1b/feerotFrontend/tree/master"
+            "content": "Major Projects:\n\n1. Monocart - E-commerce Platform\n   Comprehensive e-commerce platform with user authentication, product management, and payment integration.\n   Tech Stack: Next JS, Nest JS, PostgreSQL, Tailwind\n   Demo: https://monocart.vercel.app/\n   GitHub: https://github.com/mujtahid705/MonoCart-Backend\n\n2. SparkleMusic\n   Cross-platform React Native app for music streaming and downloads from YouTube.\n   Tech Stack: React Native, Expo\n   GitHub: https://github.com/abtahi-tajwar/SparkleMusic\n\n3. Simply Gaines\n   A platform to manage social media and brand management tools with an online marketplace platform for freelance contributors with authentication and role-based authorization system.\n   Tech Stack: React, Social Media Integration, Role-based Auth, Tailwind\n   Demo: https://live.simplygaines.fatmonk.studio/\n\n4. Bangladesh Startup Connect 2025\n   Dynamic event website with CMS functionality for BIDA's investment summit.\n   Tech Stack: React, Redux, Tailwind\n   Demo: https://connect.startupbangladesh.gov.bd/\n\n5. Task Master Pro\n   Centralized project and team management platform with role-based permissions.\n   Tech Stack: React, Node JS, Express, MongoDB, Mongoose\n   GitHub: https://github.com/mujtahid705/TaskMasterPro_frontend\n\n6. Fatmonk Studio Website\n   Official website with custom CMS-like functionality and secure backend.\n   Tech Stack: React, Node JS, Express, MongoDB, Mongoose\n   Demo: https://fatmonk.studio/\n\n7. Feerot\n   E-commerce coupon and discount platform with real-time tracking.\n   Tech Stack: React, Redux\n   GitHub: https://github.com/n0k1b/feerotFrontend/tree/master"
           }
         }
       },
@@ -297,7 +304,7 @@
         "contents": {
           "info.txt": {
             "type": "file",
-            "content": "Contact Information:\n\nEmail: mujtahid705@gmail.com\nPhone: +8801973108826\nLocation: Dhaka, Bangladesh\n\nSocial Links:\n- GitHub: https://github.com/mujtahid705\n- LinkedIn: https://linkedin.com/in/muhammad-mujtahid/\n\nFeel free to reach out for collaborations or opportunities!"
+            "content": "Contact Information:\n\nEmail: mujtahid705@gmail.com\nPhone: +8801608354878\nLocation: Dhaka, Bangladesh\n\nSocial Links:\n- GitHub: https://github.com/mujtahid705\n- LinkedIn: https://linkedin.com/in/muhammad-mujtahid/\n\nFeel free to reach out for collaborations or opportunities!"
           }
         }
       }
