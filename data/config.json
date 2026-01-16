@@ -76,28 +76,18 @@
   },
   "projects": [
     {
-      "title": "Monocart - E-commerce Platform",
-      "description": "Comprehensive e-commerce platform with user authentication, product management, and payment integration. Built with MERN stack for scalability and performance.",
+      "title": "Fleeting Commerce — White Label E-commerce SaaS",
+      "description": "Designed and developed a multi-tenant white-label e-commerce SaaS platform enabling businesses to launch fully branded online stores. Implemented domain-based storefront rendering, theme customization, subscription management, and secure payment integration, ensuring scalability, tenant isolation, and production-grade performance.",
       "image": "https://images.unsplash.com/photo-1559136555-9303baea8ebd?w=600&h=400&fit=crop",
       "technologies": ["Next JS", "Nest JS", "PostgreSQL", "Tailwind"],
       "links": {
-        "demo": "https://monocart.vercel.app/",
-        "github": "https://github.com/mujtahid705/MonoCart-Backend"
-      }
-    },
-    {
-      "title": "SparkleMusic",
-      "description": "Cross-platform React Native app for music streaming and downloads from YouTube. Mobile-first entertainment platform.",
-      "image": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=600&h=400&fit=crop",
-      "technologies": ["React Native", "Expo"],
-      "links": {
-        "demo": "#",
-        "github": "https://github.com/abtahi-tajwar/SparkleMusic"
+        "demo": "https://fleetingcommerce.vercel.app/",
+        "github": "https://github.com/mujtahid705/fleeting-commerce-backend"
       }
     },
     {
       "title": "Simply Gaines",
-      "description": "A platform to manage social media and brand management tools with an online marketplace platform for freelance contributors with authentication and role-based authorization system.",
+      "description": "Collaborated with a USA-based client to build a multi-role platform for Agencies, Organizations, and Contributors. Implemented role-based onboarding enabling agencies to manage clients, teams, employees, and contributors. Built workflows for projects, campaigns, brand management, and team collaboration. Integrated social media management (Facebook, X) and cloud storage services (Google Drive, OneDrive, Dropbox), and contributed to dual marketplaces for tools/templates and contributor hiring.",
       "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=600&h=400&fit=crop",
       "technologies": [
         "React",
@@ -109,6 +99,16 @@
       "links": {
         "demo": "https://live.simplygaines.fatmonk.studio/",
         "github": "#"
+      }
+    },
+    {
+      "title": "SparkleMusic",
+      "description": "Cross-platform React Native app for music streaming and downloads from YouTube. Mobile-first entertainment platform.",
+      "image": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=600&h=400&fit=crop",
+      "technologies": ["React Native", "Expo"],
+      "links": {
+        "demo": "#",
+        "github": "https://github.com/abtahi-tajwar/SparkleMusic"
       }
     },
     {
@@ -190,7 +190,7 @@
     {
       "institution": "BRAC University",
       "degree": "BSc in Computer Science",
-      "period": "2025",
+      "period": "2026",
       "location": "Dhaka, Bangladesh"
     },
     {
@@ -276,7 +276,7 @@
         "contents": {
           "academic.txt": {
             "type": "file",
-            "content": "Education Background:\n\n1. BRAC University\n   Degree: BSc in Computer Science\n   Period: 2025\n   Location: Dhaka, Bangladesh\n\n2. Hazera Taju Degree College\n   Degree: Higher Secondary Certificate (HSC)\n   Period: 2021\n   Location: Chittagong, Bangladesh\n\n3. Ispahani Public School and College\n   Degree: Secondary School Certificate (SSC)\n   Period: 2019\n   Location: Chittagong, Bangladesh"
+            "content": "Education Background:\n\n1. BRAC University\n   Degree: BSc in Computer Science\n   Period: 2022 - 2026\n   Location: Dhaka, Bangladesh\n\n2. Hazera Taju Degree College\n   Degree: Higher Secondary Certificate (HSC)\n   Period: 2021\n   Location: Chittagong, Bangladesh\n\n3. Ispahani Public School and College\n   Degree: Secondary School Certificate (SSC)\n   Period: 2019\n   Location: Chittagong, Bangladesh"
           }
         }
       },
@@ -294,7 +294,7 @@
         "contents": {
           "list.txt": {
             "type": "file",
-            "content": "Major Projects:\n\n1. Monocart - E-commerce Platform\n   Comprehensive e-commerce platform with user authentication, product management, and payment integration.\n   Tech Stack: Next JS, Nest JS, PostgreSQL, Tailwind\n   Demo: https://monocart.vercel.app/\n   GitHub: https://github.com/mujtahid705/MonoCart-Backend\n\n2. SparkleMusic\n   Cross-platform React Native app for music streaming and downloads from YouTube.\n   Tech Stack: React Native, Expo\n   GitHub: https://github.com/abtahi-tajwar/SparkleMusic\n\n3. Simply Gaines\n   A platform to manage social media and brand management tools with an online marketplace platform for freelance contributors with authentication and role-based authorization system.\n   Tech Stack: React, Social Media Integration, Role-based Auth, Tailwind\n   Demo: https://live.simplygaines.fatmonk.studio/\n\n4. Bangladesh Startup Connect 2025\n   Dynamic event website with CMS functionality for BIDA's investment summit.\n   Tech Stack: React, Redux, Tailwind\n   Demo: https://connect.startupbangladesh.gov.bd/\n\n5. Task Master Pro\n   Centralized project and team management platform with role-based permissions.\n   Tech Stack: React, Node JS, Express, MongoDB, Mongoose\n   GitHub: https://github.com/mujtahid705/TaskMasterPro_frontend\n\n6. Fatmonk Studio Website\n   Official website with custom CMS-like functionality and secure backend.\n   Tech Stack: React, Node JS, Express, MongoDB, Mongoose\n   Demo: https://fatmonk.studio/\n\n7. Feerot\n   E-commerce coupon and discount platform with real-time tracking.\n   Tech Stack: React, Redux\n   GitHub: https://github.com/n0k1b/feerotFrontend/tree/master"
+            "content": "Major Projects:\n\n1. Fleeting Commerce - White Label E-commerce SaaS\n   Comprehensive white label e-commerce platform with user authentication, product management, and payment integration.\n   Tech Stack: Next JS, Nest JS, PostgreSQL, Tailwind\n   Demo: https://monocart.vercel.app/\n   GitHub: https://github.com/mujtahid705/MonoCart-Backend\n\n2. SparkleMusic\n   Cross-platform React Native app for music streaming and downloads from YouTube.\n   Tech Stack: React Native, Expo\n   GitHub: https://github.com/abtahi-tajwar/SparkleMusic\n\n3. Simply Gaines\n   A platform to manage social media and brand management tools with an online marketplace platform for freelance contributors with authentication and role-based authorization system.\n   Tech Stack: React, Social Media Integration, Role-based Auth, Tailwind\n   Demo: https://live.simplygaines.fatmonk.studio/\n\n4. Bangladesh Startup Connect 2025\n   Dynamic event website with CMS functionality for BIDA's investment summit.\n   Tech Stack: React, Redux, Tailwind\n   Demo: https://connect.startupbangladesh.gov.bd/\n\n5. Task Master Pro\n   Centralized project and team management platform with role-based permissions.\n   Tech Stack: React, Node JS, Express, MongoDB, Mongoose\n   GitHub: https://github.com/mujtahid705/TaskMasterPro_frontend\n\n6. Fatmonk Studio Website\n   Official website with custom CMS-like functionality and secure backend.\n   Tech Stack: React, Node JS, Express, MongoDB, Mongoose\n   Demo: https://fatmonk.studio/\n\n7. Feerot\n   E-commerce coupon and discount platform with real-time tracking.\n   Tech Stack: React, Redux\n   GitHub: https://github.com/n0k1b/feerotFrontend/tree/master"
           }
         }
       },
